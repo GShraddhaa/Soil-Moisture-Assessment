@@ -8,16 +8,12 @@ Soil moisture is a key indicator of desertification patterns. In this project, I
 - **Countries Covered**: Khartoum, Red Sea, South Kordofan
 - **Key Characteristics**: Semi-arid climate, strong seasonality, prone to desertification and drought.
 
----
-
 ## Tools & Technologies
 
 - **Google Earth Engine (GEE)**
 - **Python (ee, geemap, matplotlib, seaborn, sklearn, and pandas)**
 - **QGIS**
 - **MODIS / SMAP / GPM** datasets
-
----
 
 ## Methodology
 
@@ -26,8 +22,6 @@ Soil moisture is a key indicator of desertification patterns. In this project, I
 3. **Soil Moisture Analysis**: Time series trend and seasonal variation analysis
 4. **Change Detection**: Between different years/periods (e.g., 2000 vs 2020)
 5. **Visualization & Mapping** using QGIS and Python libraries
-
----
 
 ## Key Findings
 
