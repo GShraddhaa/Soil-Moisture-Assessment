@@ -1,6 +1,6 @@
 ## Overview
 
-Soil moisture is a key indicator of finding desertification patterns. In this project, I used satellite data and geospatial techniques to assess environmental change in the Sudan-Sahel.
+Soil moisture is a key indicator of desertification patterns. In this project, I used satellite data and geospatial techniques to assess environmental change in the Sudan-Sahel.
 
 ## Study Area
 
